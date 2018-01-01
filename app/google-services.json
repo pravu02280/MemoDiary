@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106236144482",
+    "firebase_url": "https://memodiary-e19b2.firebaseio.com",
+    "project_id": "memodiary-e19b2",
+    "storage_bucket": "memodiary-e19b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106236144482:android:4a80cca22793cca5",
+        "android_client_info": {
+          "package_name": "com.example.prabesh.memodiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106236144482-9cmj7e08kdchab5a181obq4s23d6l32u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prabesh.memodiary",
+            "certificate_hash": "6832b287fe75171a998fe2f98906e5e4853bd87b"
+          }
+        },
+        {
+          "client_id": "106236144482-kf6683mtfid077m67ft7kqvvst1lr602.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAazf5zI_Nw6xbAjVi2v6Wc3RKfya8Brg8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106236144482-kf6683mtfid077m67ft7kqvvst1lr602.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
